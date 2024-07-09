@@ -1,0 +1,1 @@
+Exercícios feitos para relembrar conceitos de lógica de programação com a linguagem JavaScript. Os exercícios foram aproveitados para treinar envio de arquivo local para hospedagem remota através do Git.
